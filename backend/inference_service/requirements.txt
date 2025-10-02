@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+redis
+torch
+ftfy
+regex
+tqdm
+Pillow
+numpy
+prometheus-client
+python-multipart # For handling file uploads
+# For CLIP model
+git+https://github.com/openai/CLIP.git

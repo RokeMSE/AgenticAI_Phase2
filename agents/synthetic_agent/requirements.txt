@@ -1,0 +1,7 @@
+torch
+transformers
+diffusers
+openai
+Pillow
+numpy
+accelerate
